@@ -2,6 +2,9 @@
 
 ![SUPERMARIO](/home/pc/Escritorio/584df3ad6a5ae41a83ddee08.png)
 
+<image src="/home/pc/Escritorio/acf3abb6da430dd78cc99f925bb52d49.gif" alt="Descripción de la imagen">
+
+
 # 1. _Presentación_
 En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando de Python desde lo mas _sencillo_ a lo más *complejo*:
 
