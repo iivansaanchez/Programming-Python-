@@ -1,6 +1,6 @@
 # _¡Bienvenidos a Python!_
 
-![SUPERMARIO](https://i.gifer.com/33HU.gif)
+![SUPERMARIO](https://i.gifer.com/1V8t.gif)
 
 # 1. _Presentación_
 En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando de Python desde lo mas _sencillo_ a lo más *complejo*:
