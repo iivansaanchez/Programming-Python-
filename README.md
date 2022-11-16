@@ -2,7 +2,7 @@
 
 ![SUPERMARIO](/home/pc/Escritorio/584df3ad6a5ae41a83ddee08.png)
 
-<image src="/home/pc/Escritorio/acf3abb6da430dd78cc99f925bb52d49.gif" alt="Descripción de la imagen">
+<image src="/home/pc/Escritorio/584df3ad6a5ae41a83ddee08.png" alt="Descripción de la imagen">
 
 
 # 1. _Presentación_
