@@ -1,6 +1,8 @@
 # _¡Bienvenidos a Python!_
 
-![SUPERMARIO](39635620bc39fd89280af66645b69d80.gif)
+![SUPERMARIO](https://www.stickpng.com/es/img/juegos/new-super-mario-bros/mario)
+
+<div class="tenor-gif-embed" data-postid="17178506" data-share-method="host" data-aspect-ratio="0.55" data-width="100%"><a href="https://tenor.com/view/mario-pose-super-mario-gif-17178506">Mario Pose GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 # 1. _Presentación_
 En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando de Python desde lo mas _sencillo_ a lo más *complejo*:
