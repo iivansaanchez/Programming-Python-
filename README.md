@@ -4,7 +4,7 @@ En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando 
 
 -#Boletín1-OperacionesBásicas:
   -En este Boletín tenemos 5 ejercicios de condicionales. Prueba de _contacto_ con *CONDICIONALES*
-  [Visitar Boletín1-OperacionesBásicas]:https://github.com/iivansaanchez/Programming-Python-/tree/master/Bolet%C3%ADn1-Operaciones%20b%C3%A1sicas
+  [Visitar Boletín1-OperacionesBásicas]: https://github.com/iivansaanchez/Programming-Python-/tree/master/Bolet%C3%ADn1-Operaciones%20b%C3%A1sicas
   
  -#Boletín2-ExpresionesLógicas:
   -En este Boletín tenemos 2 ejercicios. Practica de lo _aprendido_ con *CONDICIONALES*
