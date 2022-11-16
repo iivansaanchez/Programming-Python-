@@ -1,8 +1,6 @@
 # _¡Bienvenidos a Python!_
 
-![SUPERMARIO](/home/pc/Escritorio/584df3ad6a5ae41a83ddee08.png)
-
-<image src="/home/pc/Escritorio/584df3ad6a5ae41a83ddee08.png" alt="Descripción de la imagen">
+<a href="https://www.pngkey.com/detail/u2w7q8u2t4u2o0q8_mario-png-download-new-super-mario-bros-2/" target="_blank">Mario Png Download - New Super Mario Bros 2 Gold Mario @pngkey.com</a>
 
 
 # 1. _Presentación_
