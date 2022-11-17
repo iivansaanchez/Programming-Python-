@@ -1,7 +1,5 @@
 # _¡Bienvenidos a Python!_
 
-<a href="https://www.pngkey.com/detail/u2w7q8u2t4u2o0q8_mario-png-download-new-super-mario-bros-2/" target="_blank">Mario Png Download - New Super Mario Bros 2 Gold Mario @pngkey.com</a>
-
 
 # 1. _Presentación_
 En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando de Python desde lo mas _sencillo_ a lo más *complejo*:
