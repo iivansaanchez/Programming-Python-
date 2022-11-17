@@ -1,7 +1,5 @@
 # _¡Bienvenidos a Python!_
 
-![supermario](https://media.tenor.com/CGn2lwGnPWkAAAAC/mario-super-mario.gif)
-
 # 1. _Presentación_
 En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando de Python desde lo mas _sencillo_ a lo más *complejo*:
 
@@ -40,3 +38,6 @@ En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando 
   -En este Boletín tenemos 10 ejercicios(INGLÉS). Practica de *BUCLES* con un _nivel_ un poco más *AVANZADO*
   
   [VISITAR Boletín6-Bucles](https://github.com/iivansaanchez/Programming-Python-/tree/master/Bolet%C3%ADn6-Bucles)
+  
+ 
+![supermario](https://media.tenor.com/CGn2lwGnPWkAAAAC/mario-super-mario.gif)
