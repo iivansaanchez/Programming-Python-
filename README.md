@@ -39,5 +39,6 @@ En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando 
   
   [VISITAR Boletín6-Bucles](https://github.com/iivansaanchez/Programming-Python-/tree/master/Bolet%C3%ADn6-Bucles)
   
+# ¡SI TE HE AYUDADO REGALAME UNA ESTRELLA!
  
 ![supermario](https://media.tenor.com/CGn2lwGnPWkAAAAC/mario-super-mario.gif)
