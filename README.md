@@ -39,6 +39,19 @@ En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando 
   
   [VISITAR Boletín6-Bucles](https://github.com/iivansaanchez/Programming-Python-/tree/master/Bolet%C3%ADn6-Bucles)
   
+[VISITAR ProgramacionModularI](https://github.com/iivansaanchez/Programming-Python-/tree/programaci%C3%B3nModular/programacionModularI/ejercicios) 
+  
+- ## ProgramacionModular II:
+  
+  En este boletín tenemos 10 ejercicios de funciones, además de usar listas. Practica de *FUNCIONES* y *LISTAS* _nivel_ *MEDIO*
+  
+  [VISITAR ProgramacionModularII]() 
+- ## ProgramacionModular III:
+  
+  En este boletín tenemos 10 ejercicios de funciones, además de usar listas y cadenas. El boletín se encuentra en *INGLES*. Practica de *FUNCIONES* y         *LISTAS* y *CADENAS*
+  
+  [VISITAR ProgramacionModularIII](https://github.com/iivansaanchez/Programming-Python-/tree/programaci%C3%B3nModular/programaci%C3%B3nModularIII/ejercicios) 
+  
 # ¡ESPERO HABERTE AYUDADO!⭐️
  
 ![supermario](https://raw.githubusercontent.com/iivansaanchez/iivansaanchez/master/superMario.gif)
