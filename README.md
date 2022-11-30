@@ -45,6 +45,7 @@ En este _repositorio_ he recogido todos los ejercicios que hemos ido realizando 
   -En este boletín tenemos 9 ejercicios de bucles. Practica *EXTRA* de *BUCLES AVANZADOS*
   
   [VISITAR Boletín7-BuclesAvanzados](https://github.com/iivansaanchez/Programming-Python-/tree/programaci%C3%B3nModular/Bolet%C3%ADn7-BuclesAvanzados)
+  
 # Programacion Modular en Python:
 
 - ## ProgramacionModular I:
