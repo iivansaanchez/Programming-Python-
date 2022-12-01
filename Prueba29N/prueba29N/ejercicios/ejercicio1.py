@@ -1,91 +1,70 @@
 '''
-Created on Nov 29, 2022
+Created on 29 nov 2022
 
-@author: estudiante
+@author: ivansanchezsanchez
 '''
-
 def generar_usuario(nombre, apellido1, apellido2, dni):
     usuario=""
-    a=0
-    b=-1
-    c = 0
-    d = -2
-    while a < 3:
-        usuario+=nombre[a]
-        a+=1
-    while b > -4:
-        usuario+=apellido1[b]
-        b-=1
-    while c < 3:
-        usuario+=apellido2[c]
-        c+=1
-    while d > -6:
-        usuario+=dni[d]
-        d-=1     
+    usuario+=nombre[:3]
+    usuario+=apellido1[-3:]
+    usuario+=apellido2[:3]
+    usuario+=dni[-5:-1]
     return usuario
-def menu():
-    print("1. Añadir usuario válido")
-    print("2. Eliminar usuario.")
-    print("3. Crear usuario.")
-    print("4. Consultar usuario.")
-    print("5. Borar usuario.")
-    print("6. Salir")
 
-nombrep = input("Introducir nombre: ")
-apellido1p = input("Introducir apellido1: ")
-apellido2p = input("Introducir apellido2: ")
-dnip = input("Introducir dni: ")
+def menu():
+    mensaje = " 1. Añadir usuario válido. \n 2.Eliminar usuario. \n 3. Crear usuario. \n 4. Consultar usuarios. \n 5. Borrar usuarios. \n 6. Salir"
+    
+    return mensaje
+
+
+nom=input("Introduce un nombre: ")  
+ape1=input("Introduce un apellido1: ")
+ape2=input("Introduce un apellido2: ")
+dnip=input("Introduce un dni: ")
+
 print(menu())
-number = int(input("Introduce un número: "))
-while number < 6:
+
+number=int(input("Elige una opción: "))
+
+listaUsuarios=["", "", "", "", ""]
+
+contadorA=0
+
+while number!=6:
+    print(menu())
     if number == 1:
-        listaUsuarios=["", "", "", "", ""]
-        contadorA = 0
-        if contadorA < 5:
-            listaUsuarios[contadorA]+=generar_usuario(nombrep, apellido1p, apellido2p, dnip)
+        if contadorA <5:
+            listaUsuarios[contadorA]+=generar_usuario(nom, ape1, ape2, dnip)
             contadorA+=1
-            number = int(input("Introduce un número: "))
         else:
             contadorA=0
-            number = int(input("Introduce un número: "))
+            listaUsuarios[contadorA]+=generar_usuario(nom, ape1, ape2, dnip)
     elif number == 2:
-        usuarioD=input("Introduce el nombre del usuario que deseas eliminar: ")
-        for i in range(len(listaUsuarios)):
-            for a in usuarioD:
-                if usuarioD[a]==listaUsuarios[i]:
-                    listaUsuarios[i]=""
-    
+        if generar_usuario(nom, ape1, ape2, dnip) in listaUsuarios:
+            listaUsuarios.remove(generar_usuario(nom, ape1, ape2, dnip))
+            listaUsuarios.append("")
+            print(listaUsuarios)
+        else:
+            print("El usuario no se encuentra en la lista.")
     elif number == 3:
-        nombrep = input("Introducir nombre: ")
-        apellido1p = input("Introducir apellido1: ")
-        apellido2p = input("Introducir apellido2: ")
-        dnip = input("Introducir dni: ")
-        
-        if contadorA < 5:
-            listaUsuarios[contadorA]+=generar_usuario(nombrep, apellido1p, apellido2p, dnip)
+        nom=input("Introduce un nombre: ")  
+        ape1=input("Introduce un apellido1: ")
+        ape2=input("Introduce un apellido2: ")
+        dnip=input("Introduce un dni: ")
+        if contadorA <5:
+            listaUsuarios[contadorA]+=generar_usuario(nom, ape1, ape2, dnip)
             contadorA+=1
         else:
             contadorA=0
-            
-    number = int(input("Introduce un número: "))
-    nombrep = input("Introducir nombre: ")
-    apellido1p = input("Introducir apellido1: ")
-    apellido2p = input("Introducir apellido2: ")
-    dnip = input("Introducir dni: ")
+            listaUsuarios[contadorA]+=generar_usuario(nom, ape1, ape2, dnip)
+    elif number == 4:
+        print(listaUsuarios)
+    elif number == 5:
+        listaUsuarios=["", "", "", "", ""]
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-        
-        
-        
-        
+    number=int(input("Elige una opción: "))
+    if number == 1 or number == 2 or number == 3:      
+        nom=input("Introduce un nombre: ")  
+        ape1=input("Introduce un apellido1: ")
+        ape2=input("Introduce un apellido2: ")
+        dnip=input("Introduce un dni: ") 
